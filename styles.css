@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+.container{
+    margin-top: 5vh;
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+}
+
+.buttons{
+    margin-bottom: 3vh;
+}
+
+.btn{
+    border-radius: 0px !important;
+    width: 8vw;
+    margin-right:1vw;
+}
